@@ -18,9 +18,8 @@
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-   ![Snake animation].(https://github.com/eduardobarboza/eduardobarboza/blob/output/github-contribution-grid-snake.svg).
-   [![readme](https://github-readme-stats.verce1.app/api/pin/?username=eduardobarboza&repo=eduardobarboza&theme=react)](https://github.com/eduardobarboza/eduardobarboza)
-    
+   ![snake animation](https://github.com/<eduardobarboza>/<eduardobarboza>/blob/output/github-contribution-grid-snake2.svg)
+ 
   <img align="right" alt="Edu-yoda" src="https://i.picasion.com/pic92/9e99ffe9d4e15d554c0955fbd07af32d.gif">
 </div>
 
