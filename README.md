@@ -20,7 +20,7 @@
 
    
  
-  <img align="right" alt="Edu-yoda" src="https://br.pinterest.com/pin/712624341010096970/">
+  <img align="right" alt="Edu-yoda" src="https://br.pinterest.com/pin/712624341010096970">
 </div>
 
 
