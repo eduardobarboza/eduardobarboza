@@ -4,11 +4,9 @@
 - 🌱 Estudando React Native 
 - 👯 Gosto de Trabalhar Com Front - End
 
-   <div>
-  <a href="https://github.com/eduardobarboza">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardobarboza&theme=dracula)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobarboza&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<p align="center">
+  <img src="https://github.com/eduardobarboza/eduardobarboza/blob/output/dist/github-snake.svg" alt="GitHub Snake">
+</p>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
