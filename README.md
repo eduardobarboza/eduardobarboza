@@ -5,7 +5,7 @@
 - 👯 Gosto de Trabalhar Com Front - End
 
 <p align="center">
-  <img src="https://github.com/eduardobarboza/eduardobarboza/blob/output/dist/github-snake.svg" alt="GitHub Snake">
+  <img src="https://github.com/eduardobarboza/eduardobarboza/blob/output/github-snake.svg" alt="GitHub Snake">
 </p>
 
  <div style="display: inline_block"><br>
