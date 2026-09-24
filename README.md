@@ -29,16 +29,18 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e mobil
 ## 📊 Em constante evolução
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardobarboza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff67ba&icon_color=4dc7ff&text_color=332d4d&bg_color=fffafc" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobarboza&layout=compact&hide_border=true&title_color=ff67ba&text_color=332d4d&bg_color=fffafc" alt="Linguagens mais usadas" />
+  <a href="https://github.com/eduardobarboza?tab=repositories"><img src="https://img.shields.io/badge/Projetos-no%20GitHub-7ad9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=332d4d" alt="Projetos no GitHub" /></a>
+  <a href="https://github.com/eduardobarboza?tab=stars"><img src="https://img.shields.io/badge/Explorando-tecnologias-ff94d2?style=for-the-badge&logo=github&logoColor=white&labelColor=332d4d" alt="Tecnologias exploradas" /></a>
 </div>
+
+Minhas contribuições e projetos refletem uma jornada contínua de aprendizado. Cada repositório é uma oportunidade de praticar, experimentar e evoluir. 🚀
 
 ## 🎵 Um pouco de inspiração
 
 > “Cada linha de código é uma nova nota na música que estamos criando.”
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eduardobarboza/eduardobarboza/output/github-contribution-grid-snake.svg" alt="Animação das contribuições" />
+  <a href="https://github.com/eduardobarboza?tab=overview">Acompanhe minha evolução no GitHub ✨</a>
 </div>
 
 ---
