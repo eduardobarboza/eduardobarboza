@@ -23,7 +23,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e mobil
 ## Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,cs&theme=light" alt="JavaScript, React Native, Python, HTML, CSS e C Sharp" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,&theme=light" alt="JavaScript, React Native, Python, HTML e CSS" />
 </div>
 
 ## 📊 Em constante evolução
